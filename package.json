@@ -1,6 +1,6 @@
 {
   "name": "mcp-shodan",
-  "version": "0.1.14",
+  "version": "0.1.15",
   "description": "MCP server for Shodan \u2014 search internet-connected devices, IP reconnaissance, DNS lookups, and CVE/CPE vulnerability intelligence. Works with Claude Code, Codex, Gemini CLI, and Claude Desktop.",
   "main": "src/index.ts",
   "scripts": {
